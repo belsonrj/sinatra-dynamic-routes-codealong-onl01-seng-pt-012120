@@ -20,6 +20,6 @@ class App < Sinatra::Base
     "Hello #{@user_name}!"
   end
   
-  get '/multiply/:num1/:num2'
-end
+#  get '/multiply/:num1/:num2'
+#  end
 end
